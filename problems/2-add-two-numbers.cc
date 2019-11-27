@@ -66,7 +66,7 @@ int main() {
   Solution s;
   ListNode *result = s.addTwoNumbers(&l1n1, &l2n1);
   for (; result; result = result->next) {
-    cout << result->val << endl;
+    cout << result->val << '\n';
   }
 
   return 0;
