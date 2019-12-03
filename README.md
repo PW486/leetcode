@@ -4,6 +4,7 @@
 
 | # | Title | Solution | Difficulty |
 |-|-|-|-|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/9-palindrome-number.cc)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/8-string-to-integer-atoi.cc)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/7-reverse-integer.cc)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/6-zigzag-conversion.cc)|Medium|
