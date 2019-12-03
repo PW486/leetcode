@@ -4,7 +4,8 @@
 
 | # | Title | Solution | Difficulty |
 |-|-|-|-|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/7-reverse-integer.cc)|Medium|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/8-string-to-integer-atoi.cc)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/7-reverse-integer.cc)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/6-zigzag-conversion.cc)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/5-longest-palindromic-substring.cc)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/4-median-of-two-sorted-arrays.cc)|Hard|
