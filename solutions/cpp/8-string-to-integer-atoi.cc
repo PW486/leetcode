@@ -11,10 +11,10 @@ public:
     int result = 0;
 
     for (char c : str) {
-      if (!hasSign && c == ' ') {
-        continue;
-      } else if (!hasSign) {
-        if (c == '-') {
+      if (!hasSign) {
+        if (c == ' ') {
+          continue;
+        } else if (c == '-') {
           hasSign = true;
           hasMinus = true;
         } else if (c == '+') {
