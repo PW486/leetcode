@@ -5,6 +5,7 @@
 | # | Title | Solution | Difficulty |
 |-|-|-|-|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/395-longest-substring-with-at-least-k-repeating-characters.cc)|Medium|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/10-regular-expression-matching.cc)|Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/9-palindrome-number.cc)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/8-string-to-integer-atoi.cc)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/7-reverse-integer.cc)|Easy|
