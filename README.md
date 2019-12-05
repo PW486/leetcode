@@ -4,6 +4,7 @@
 
 | # | Title | Solution | Difficulty |
 |-|-|-|-|
+|1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1039-minimum-score-triangulation-of-polygon.cc)|Medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/395-longest-substring-with-at-least-k-repeating-characters.cc)|Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/10-regular-expression-matching.cc)|Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/9-palindrome-number.cc)|Easy|
