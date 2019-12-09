@@ -5,6 +5,7 @@
 | # | Title | Solution | Difficulty |
 |-|-|-|-|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1039-minimum-score-triangulation-of-polygon.cc)|Medium|
+|415|[Add Strings](https://leetcode.com/problems/add-strings/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/415-add-strings.cc)|Easy|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/395-longest-substring-with-at-least-k-repeating-characters.cc)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/70-climbing-stairs.cc)|Easy|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/10-regular-expression-matching.cc)|Hard|
