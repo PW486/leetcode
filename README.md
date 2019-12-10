@@ -5,11 +5,14 @@
 | # | Title | Solution | Difficulty |
 |-|-|-|-|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1039-minimum-score-triangulation-of-polygon.cc)|Medium|
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/961-n-repeated-element-in-size-2n-array.cc)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/938-range-sum-of-bst.cc)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/771-jewels-and-stones.cc)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/701-insert-into-a-binary-search-tree.cc)|Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/654-maximum-binary-tree.cc)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/415-add-strings.cc)|Easy|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/395-longest-substring-with-at-least-k-repeating-characters.cc)|Medium|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/208-implement-trie-prefix-tree.cc)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/70-climbing-stairs.cc)|Easy|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/10-regular-expression-matching.cc)|Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/9-palindrome-number.cc)|Easy|
