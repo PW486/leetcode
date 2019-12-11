@@ -1,9 +1,10 @@
-# LeetCode
+# 📓 LeetCode
 
 > [LeetCode](https://leetcode.com/problemset/all) Algorithm Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 |-|-|-|-|
+|1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1161-maximum-level-sum-of-a-binary-tree.cc)|Medium|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1039-minimum-score-triangulation-of-polygon.cc)|Medium|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/961-n-repeated-element-in-size-2n-array.cc)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/938-range-sum-of-bst.cc)|Easy|
