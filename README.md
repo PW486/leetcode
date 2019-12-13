@@ -13,6 +13,7 @@
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/771-jewels-and-stones.cc)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/701-insert-into-a-binary-search-tree.cc)|Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/654-maximum-binary-tree.cc)|Medium|
+|476|[Number Complement](https://leetcode.com/problems/number-complement/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/476-number-complement.cc)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/461-hamming-distance.cc)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/415-add-strings.cc)|Easy|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/395-longest-substring-with-at-least-k-repeating-characters.cc)|Medium|
