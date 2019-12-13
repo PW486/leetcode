@@ -10,6 +10,7 @@
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1039-minimum-score-triangulation-of-polygon.cc)|Medium|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/961-n-repeated-element-in-size-2n-array.cc)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/938-range-sum-of-bst.cc)|Easy|
+|922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/922-sort-array-by-parity-ii.cc)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/771-jewels-and-stones.cc)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/701-insert-into-a-binary-search-tree.cc)|Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/654-maximum-binary-tree.cc)|Medium|
