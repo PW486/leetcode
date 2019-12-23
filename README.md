@@ -25,6 +25,7 @@
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/225-implement-stack-using-queues.cc)|Easy|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/208-implement-trie-prefix-tree.cc)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/136-single-number.cc)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/104-maximum-depth-of-binary-tree.cc)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/70-climbing-stairs.cc)|Easy|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/57-insert-interval.cc)|Hard|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/56-merge-intervals.cc)|Medium|
