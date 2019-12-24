@@ -24,6 +24,7 @@
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/395-longest-substring-with-at-least-k-repeating-characters.cc)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/338-counting-bits.cc)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/232-implement-queue-using-stacks.cc)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/226-invert-binary-tree.cc)|Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/225-implement-stack-using-queues.cc)|Easy|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/208-implement-trie-prefix-tree.cc)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/136-single-number.cc)|Easy|
