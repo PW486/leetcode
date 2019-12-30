@@ -31,6 +31,7 @@
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/225-implement-stack-using-queues.cc)|Easy|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/208-implement-trie-prefix-tree.cc)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/206-reverse-linked-list.cc)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/169-majority-element.cc)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/136-single-number.cc)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/104-maximum-depth-of-binary-tree.cc)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/94-binary-tree-inorder-traversal.cc)|Medium|
