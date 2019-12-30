@@ -33,6 +33,7 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/136-single-number.cc)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/104-maximum-depth-of-binary-tree.cc)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/94-binary-tree-inorder-traversal.cc)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/78-subsets.cc)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/70-climbing-stairs.cc)|Easy|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/57-insert-interval.cc)|Hard|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/56-merge-intervals.cc)|Medium|
