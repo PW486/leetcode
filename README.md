@@ -42,6 +42,7 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/70-climbing-stairs.cc)|Easy|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/57-insert-interval.cc)|Hard|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/56-merge-intervals.cc)|Medium|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/49-group-anagrams.cc)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/48-rotate-image.cc)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/46-permutations.cc)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/39-combination-sum.cc)|Medium|
