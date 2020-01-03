@@ -50,6 +50,7 @@
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/46-permutations.cc)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/39-combination-sum.cc)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/22-generate-parentheses.cc)|Medium|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/21-merge-two-sorted-lists.cc)|Easy|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/10-regular-expression-matching.cc)|Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/9-palindrome-number.cc)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/8-string-to-integer-atoi.cc)|Medium|
