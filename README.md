@@ -42,6 +42,7 @@
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/94-binary-tree-inorder-traversal.cc)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/78-subsets.cc)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/70-climbing-stairs.cc)|Easy|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/64-minimum-path-sum.cc)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/62-unique-paths.cc)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/57-insert-interval.cc)|Hard|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/56-merge-intervals.cc)|Medium|
