@@ -41,6 +41,7 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/136-single-number.cc)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/104-maximum-depth-of-binary-tree.cc)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/102-binary-tree-level-order-traversal.cc)|Medium|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/96-unique-binary-search-trees.cc)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/94-binary-tree-inorder-traversal.cc)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/78-subsets.cc)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/70-climbing-stairs.cc)|Easy|
