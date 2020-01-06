@@ -26,6 +26,7 @@
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/395-longest-substring-with-at-least-k-repeating-characters.cc)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/347-top-k-frequent-elements.cc)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/338-counting-bits.cc)|Medium|
+|312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/312-burst-balloons.cc)|Hard|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/287-find-the-duplicate-number.cc)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/283-move-zeroes.cc)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/238-product-of-array-except-self.cc)|Medium|
