@@ -56,6 +56,7 @@
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/49-group-anagrams.cc)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/48-rotate-image.cc)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/46-permutations.cc)|Medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/42-trapping-rain-water.cc)|Hard|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/39-combination-sum.cc)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/22-generate-parentheses.cc)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/21-merge-two-sorted-lists.cc)|Easy|
