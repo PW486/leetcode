@@ -29,6 +29,7 @@
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/395-longest-substring-with-at-least-k-repeating-characters.cc)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/394-decode-string.cc)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/347-top-k-frequent-elements.cc)|Medium|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/344-reverse-string.cc)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/338-counting-bits.cc)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/337-house-robber-iii.cc)|Medium|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/312-burst-balloons.cc)|Hard|
