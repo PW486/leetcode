@@ -20,6 +20,7 @@
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/617-merge-two-binary-trees.cc)|Easy|
 |612|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/621-task-scheduler.cc)|Medium|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/543-diameter-of-binary-tree.cc)|Easy|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/494-target-sum.cc)|Medium|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/476-number-complement.cc)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/461-hamming-distance.cc)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/448-find-all-numbers-disappeared-in-an-array.cc)|Easy|
