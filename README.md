@@ -18,6 +18,7 @@
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/654-maximum-binary-tree.cc)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/647-palindromic-substrings.cc)|Medium|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/617-merge-two-binary-trees.cc)|Easy|
+|612|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/621-task-scheduler.cc)|Medium|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/543-diameter-of-binary-tree.cc)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/476-number-complement.cc)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/461-hamming-distance.cc)|Easy|
