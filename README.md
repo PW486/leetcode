@@ -25,6 +25,7 @@
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/461-hamming-distance.cc)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/448-find-all-numbers-disappeared-in-an-array.cc)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/415-add-strings.cc)|Easy|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/412-fizz-buzz.cc)|Easy|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/406-queue-reconstruction-by-height.cc)|Medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/395-longest-substring-with-at-least-k-repeating-characters.cc)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/394-decode-string.cc)|Medium|
