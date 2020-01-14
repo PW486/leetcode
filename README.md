@@ -39,6 +39,7 @@
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/238-product-of-array-except-self.cc)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/237-delete-node-in-a-linked-list.cc)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/232-implement-queue-using-stacks.cc)|Easy|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/230-kth-smallest-element-in-a-bst.ccc)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/226-invert-binary-tree.cc)|Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/225-implement-stack-using-queues.cc)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/215-kth-largest-element-in-an-array.cc)|Medium|
