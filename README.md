@@ -68,6 +68,7 @@
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/39-combination-sum.cc)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/22-generate-parentheses.cc)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/21-merge-two-sorted-lists.cc)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/13-roman-to-integer.cc)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/11-container-with-most-water.cc)|Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/10-regular-expression-matching.cc)|Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/9-palindrome-number.cc)|Easy|
