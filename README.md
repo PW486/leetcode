@@ -57,6 +57,7 @@
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/108-convert-sorted-array-to-binary-search-tree.cc)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/104-maximum-depth-of-binary-tree.cc)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/102-binary-tree-level-order-traversal.cc)|Medium|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/101-symmetric-tree.cc)|Easy|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/96-unique-binary-search-trees.cc)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/94-binary-tree-inorder-traversal.cc)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/78-subsets.cc)|Medium|
