@@ -65,6 +65,7 @@
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/96-unique-binary-search-trees.cc)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/94-binary-tree-inorder-traversal.cc)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/78-subsets.cc)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/75-sort-colors.cc)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/70-climbing-stairs.cc)|Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/64-minimum-path-sum.cc)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/62-unique-paths.cc)|Medium|
