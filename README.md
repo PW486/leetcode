@@ -31,6 +31,7 @@
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/406-queue-reconstruction-by-height.cc)|Medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/395-longest-substring-with-at-least-k-repeating-characters.cc)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/394-decode-string.cc)|Medium|
+|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/378-kth-smallest-element-in-a-sorted-matrix.cc)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/347-top-k-frequent-elements.cc)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/344-reverse-string.cc)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/338-counting-bits.cc)|Medium|
