@@ -36,6 +36,7 @@
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/378-kth-smallest-element-in-a-sorted-matrix.cc)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/347-top-k-frequent-elements.cc)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/344-reverse-string.cc)|Easy|
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/341-flatten-nested-list-iterator.cc)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/338-counting-bits.cc)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/337-house-robber-iii.cc)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/328-odd-even-linked-list.cc)|Medium|
