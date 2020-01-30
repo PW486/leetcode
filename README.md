@@ -48,6 +48,7 @@
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/289-game-of-life.cc)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/287-find-the-duplicate-number.cc)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/283-move-zeroes.cc)|Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/268-missing-number.cc)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/242-valid-anagram.cc)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/238-product-of-array-except-self.cc)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/237-delete-node-in-a-linked-list.cc)|Easy|
