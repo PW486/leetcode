@@ -35,6 +35,7 @@
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/384-shuffle-an-array.cc)|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/378-kth-smallest-element-in-a-sorted-matrix.cc)|Medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/371-sum-of-two-integers.cc)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/350-intersection-of-two-arrays-ii.cc)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/347-top-k-frequent-elements.cc)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/344-reverse-string.cc)|Easy|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/341-flatten-nested-list-iterator.cc)|Medium|
