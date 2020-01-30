@@ -66,6 +66,7 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/136-single-number.cc)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/122-best-time-to-buy-and-sell-stock-ii.cc)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/121-best-time-to-buy-and-sell-stock.cc)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/118-pascals-triangle.cc)|Easy|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/114-flatten-binary-tree-to-linked-list.cc)|Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/108-convert-sorted-array-to-binary-search-tree.cc)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/105-construct-binary-tree-from-preorder-and-inorder-traversal.cc)|Medium|
