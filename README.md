@@ -44,6 +44,7 @@
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/312-burst-balloons.cc)|Hard|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/309-best-time-to-buy-and-sell-stock-with-cooldown.cc)|Medium|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/297-serialize-and-deserialize-binary-tree.cc)|Hard|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/289-game-of-life.cc)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/287-find-the-duplicate-number.cc)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/283-move-zeroes.cc)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/242-valid-anagram.cc)|Easy|
