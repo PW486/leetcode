@@ -90,6 +90,7 @@
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/46-permutations.cc)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/42-trapping-rain-water.cc)|Hard|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/39-combination-sum.cc)|Medium|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/36-valid-sudoku.cc)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/22-generate-parentheses.cc)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/21-merge-two-sorted-lists.cc)|Easy|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/17-letter-combinations-of-a-phone-number.cc)|Medium|
