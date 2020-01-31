@@ -60,6 +60,7 @@
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/215-kth-largest-element-in-an-array.cc)|Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/208-implement-trie-prefix-tree.cc)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/206-reverse-linked-list.cc)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/202-happy-number.cc)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/200-number-of-islands.cc)|Medium|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/171-excel-sheet-column-number.cc)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/169-majority-element.cc)|Easy|
