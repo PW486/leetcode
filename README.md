@@ -62,6 +62,7 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/206-reverse-linked-list.cc)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/202-happy-number.cc)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/200-number-of-islands.cc)|Medium|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/191-number-of-1-bits.cc)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/171-excel-sheet-column-number.cc)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/169-majority-element.cc)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/136-single-number.cc)|Easy|
