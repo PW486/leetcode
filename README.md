@@ -67,6 +67,7 @@
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/171-excel-sheet-column-number.cc)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/169-majority-element.cc)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/136-single-number.cc)|Easy|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/128-longest-consecutive-sequence.cc)|Hard|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/122-best-time-to-buy-and-sell-stock-ii.cc)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/121-best-time-to-buy-and-sell-stock.cc)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/118-pascals-triangle.cc)|Easy|
