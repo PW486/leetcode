@@ -4,6 +4,7 @@
 
 | # | Title | Solution | Difficulty |
 |-|-|-|-|
+|1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1314-matrix-block-sum.cc)|Medium|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1255-maximum-score-words-formed-by-letters.cc)|Hard|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1161-maximum-level-sum-of-a-binary-tree.cc)|Medium|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1046-last-stone-weight.cc)|Easy|
