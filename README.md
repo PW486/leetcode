@@ -5,11 +5,13 @@
 | # | Title | Solution | Difficulty |
 |-|-|-|-|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1314-matrix-block-sum.cc)|Medium|
+|1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1277-count-square-submatrices-with-all-ones.cc)|Medium|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1255-maximum-score-words-formed-by-letters.cc)|Hard|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1161-maximum-level-sum-of-a-binary-tree.cc)|Medium|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1046-last-stone-weight.cc)|Easy|
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1043-partition-array-for-maximum-sum.cc)|Medium|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1039-minimum-score-triangulation-of-polygon.cc)|Medium|
+|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1025-divisor-game.cc)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/961-n-repeated-element-in-size-2n-array.cc)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/938-range-sum-of-bst.cc)|Easy|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/922-sort-array-by-parity-ii.cc)|Easy|
