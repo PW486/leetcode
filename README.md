@@ -76,6 +76,7 @@
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/182-duplicate-emails.sql)|Easy|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/181-employees-earning-more-than-their-managers.sql)|Easy|
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/180-consecutive-numbers.sql)|Medium|
+|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/177-nth-highest-salary.sql)|Medium|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/176-second-highest-salary.sql)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/175-combine-two-tables.sql)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/171-excel-sheet-column-number.cc)|Easy|
