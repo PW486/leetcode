@@ -72,6 +72,7 @@
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/202-happy-number.cc)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/200-number-of-islands.cc)|Medium|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/191-number-of-1-bits.cc)|Easy|
+|180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/180-consecutive-numbers.sql)|Medium|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/176-second-highest-salary.sql)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/175-combine-two-tables.sql)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/171-excel-sheet-column-number.cc)|Easy|
