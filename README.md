@@ -72,6 +72,7 @@
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/202-happy-number.cc)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/200-number-of-islands.cc)|Medium|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/191-number-of-1-bits.cc)|Easy|
+|184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/184-department-highest-salary.sql)|Medium|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/183-customers-who-never-order.sql)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/182-duplicate-emails.sql)|Easy|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/181-employees-earning-more-than-their-managers.sql)|Easy|
