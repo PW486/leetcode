@@ -7,6 +7,7 @@
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1314-matrix-block-sum.cc)|Medium|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1277-count-square-submatrices-with-all-ones.cc)|Medium|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1255-maximum-score-words-formed-by-letters.cc)|Hard|
+|1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/1179-reformat-department-table.sql)|Easy|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1161-maximum-level-sum-of-a-binary-tree.cc)|Medium|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1046-last-stone-weight.cc)|Easy|
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1043-partition-array-for-maximum-sum.cc)|Medium|
