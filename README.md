@@ -7,7 +7,7 @@
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1314-matrix-block-sum.cc)|Medium|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1277-count-square-submatrices-with-all-ones.cc)|Medium|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1255-maximum-score-words-formed-by-letters.cc)|Hard|
-|1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/1179-reformat-department-table.sql)|Easy|
+|1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/1179-reformat-department-table.sql)|Easy|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1161-maximum-level-sum-of-a-binary-tree.cc)|Medium|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1046-last-stone-weight.cc)|Easy|
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/1043-partition-array-for-maximum-sum.cc)|Medium|
@@ -73,15 +73,15 @@
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/202-happy-number.cc)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/200-number-of-islands.cc)|Medium|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/191-number-of-1-bits.cc)|Easy|
-|184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/184-department-highest-salary.sql)|Medium|
-|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/183-customers-who-never-order.sql)|Easy|
-|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/182-duplicate-emails.sql)|Easy|
-|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/181-employees-earning-more-than-their-managers.sql)|Easy|
-|180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/180-consecutive-numbers.sql)|Medium|
-|178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/178-rank-scores.sql)|Medium|
-|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/177-nth-highest-salary.sql)|Medium|
-|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/176-second-highest-salary.sql)|Easy|
-|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/175-combine-two-tables.sql)|Easy|
+|184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/184-department-highest-salary.sql)|Medium|
+|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/183-customers-who-never-order.sql)|Easy|
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/182-duplicate-emails.sql)|Easy|
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/181-employees-earning-more-than-their-managers.sql)|Easy|
+|180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/180-consecutive-numbers.sql)|Medium|
+|178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/178-rank-scores.sql)|Medium|
+|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/177-nth-highest-salary.sql)|Medium|
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/176-second-highest-salary.sql)|Easy|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/175-combine-two-tables.sql)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/171-excel-sheet-column-number.cc)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/169-majority-element.cc)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/136-single-number.cc)|Easy|
