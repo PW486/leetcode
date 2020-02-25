@@ -25,6 +25,7 @@
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/647-palindromic-substrings.cc)|Medium|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/617-merge-two-binary-trees.cc)|Easy|
 |612|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/621-task-scheduler.cc)|Medium|
+|596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/596-classes-more-than-5-students.sql)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/595-big-countries.sql)|Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/560-subarray-sum-equals-k.cc)|Medium|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/543-diameter-of-binary-tree.cc)|Easy|
