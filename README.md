@@ -23,6 +23,7 @@
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/701-insert-into-a-binary-search-tree.cc)|Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/654-maximum-binary-tree.cc)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/647-palindromic-substrings.cc)|Medium|
+|627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/627-swap-salary.sql)|Easy|
 |626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/626-exchange-seats.sql)|Medium|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MySQL](https://github.com/PW486/leetcode/blob/master/solutions/sql/620-not-boring-movies.sql)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/617-merge-two-binary-trees.cc)|Easy|
