@@ -1,48 +1,48 @@
-select
-  de.name as Department,
-  em.name as Employee,
+SELECT
+  de.name AS Department,
+  em.name AS Employee,
   em.salary
-from
+FROM
   employee em
-  inner join department de on de.id = em.departmentid
-  inner join (
-    select
+  INNER JOIN department de ON de.id = em.departmentid
+  INNER JOIN (
+    SELECT
       departmentid,
-      ifnull(
-        ifnull(
+      IFNULL(
+        IFNULL(
           (
-            select
+            SELECT
               ee.salary
-            from
+            FROM
               employee ee
-            where
+            WHERE
               e.departmentid = ee.departmentid
-            group by
+            GROUP BY
               ee.salary
-            order by
-              ee.salary desc
-            limit
+            ORDER BY
+              ee.salary DESC
+            LIMIT
               2, 1
           ), (
-            select
+            SELECT
               ee.salary
-            from
+            FROM
               employee ee
-            where
+            WHERE
               e.departmentid = ee.departmentid
-            group by
+            GROUP BY
               ee.salary
-            order by
-              ee.salary desc
-            limit
+            ORDER BY
+              ee.salary DESC
+            LIMIT
               1, 1
           )
-        ), max(salary)
-      ) as threeSalary
-    from
+        ), MAX(salary)
+      ) AS threeSalary
+    FROM
       employee e
-    group by
+    GROUP BY
       departmentid
-  ) threeble on threeble.departmentid = em.departmentid
-where
+  ) threeble ON threeble.departmentid = em.departmentid
+WHERE
   threeble.threeSalary <= em.salary

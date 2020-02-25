@@ -1,19 +1,18 @@
-select
-  d.name as Department,
-  e.name as Employee,
+SELECT
+  d.name AS Department,
+  e.name AS Employee,
   e.salary
-from
+FROM
   employee e
-  left join department d on d.id = e.departmentid
-  left join (
-    select
+  LEFT JOIN department d ON d.id = e.departmentid
+  LEFT JOIN (
+    SELECT
       departmentid,
-      max(salary) as max
-    from
+      MAX(salary) AS max
+    FROM
       employee
-    group by
+    GROUP BY
       departmentid
-  ) mx on mx.departmentid = e.departmentid
-where
-  mx.max = e.salary
-  and d.name is not null;
+  ) mx ON mx.departmentid = e.departmentid
+WHERE mx.max = e.salary
+  AND d.name IS NOT NULL;

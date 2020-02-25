@@ -1,16 +1,16 @@
-select
+SELECT
   d.id,
-  max(case d.month when "Jan" then d.revenue end) as Jan_Revenue,
-  max(case d.month when "Feb" then d.revenue end) as Feb_Revenue,
-  max(case d.month when "Mar" then d.revenue end) as Mar_Revenue,
-  max(case d.month when "Apr" then d.revenue end) as Apr_Revenue,
-  max(case d.month when "May" then d.revenue end) as May_Revenue,
-  max(case d.month when "Jun" then d.revenue end) as Jun_Revenue,
-  max(case d.month when "Jul" then d.revenue end) as Jul_Revenue,
-  max(case d.month when "Aug" then d.revenue end) as Aug_Revenue,
-  max(case d.month when "Sep" then d.revenue end) as Sep_Revenue,
-  max(case d.month when "Oct" then d.revenue end) as Oct_Revenue,
-  max(case d.month when "Nov" then d.revenue end) as Nov_Revenue,
-  max(case d.month when "Dec" then d.revenue end) as Dec_Revenue
-from department d
-group by d.id;
+  MAX(CASE d.month WHEN "Jan" THEN d.revenue END) AS Jan_Revenue,
+  MAX(CASE d.month WHEN "Feb" THEN d.revenue END) AS Feb_Revenue,
+  MAX(CASE d.month WHEN "Mar" THEN d.revenue END) AS Mar_Revenue,
+  MAX(CASE d.month WHEN "Apr" THEN d.revenue END) AS Apr_Revenue,
+  MAX(CASE d.month WHEN "May" THEN d.revenue END) AS May_Revenue,
+  MAX(CASE d.month WHEN "Jun" THEN d.revenue END) AS Jun_Revenue,
+  MAX(CASE d.month WHEN "Jul" THEN d.revenue END) AS Jul_Revenue,
+  MAX(CASE d.month WHEN "Aug" THEN d.revenue END) AS Aug_Revenue,
+  MAX(CASE d.month WHEN "Sep" THEN d.revenue END) AS Sep_Revenue,
+  MAX(CASE d.month WHEN "Oct" THEN d.revenue END) AS Oct_Revenue,
+  MAX(CASE d.month WHEN "Nov" THEN d.revenue END) AS Nov_Revenue,
+  MAX(CASE d.month WHEN "Dec" THEN d.revenue END) AS Dec_Revenue
+FROM department d
+GROUP BY d.id;
