@@ -34,6 +34,7 @@
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/560-subarray-sum-equals-k.cc)|Medium|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/543-diameter-of-binary-tree.cc)|Easy|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/494-target-sum.cc)|Medium|
+|486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/486-predict-the-winner.cc)|Medium|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/476-number-complement.cc)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/461-hamming-distance.cc)|Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[C++](https://github.com/PW486/leetcode/blob/master/solutions/cpp/454-4sum-ii.cc)|Medium|
